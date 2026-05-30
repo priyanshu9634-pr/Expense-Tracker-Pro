@@ -19,7 +19,6 @@ A responsive expense tracking web application built using HTML, CSS, JavaScript 
 - Chart.js
 
 ## Live Demo
-Add your GitHub Pages link here.
+
 =======
 # Expense-Tracker-Pro
->>>>>>> 79b82ae9e67921a105de12ed88e938917ec5234d
